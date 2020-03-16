@@ -1,3 +1,3 @@
 # RockPaperScissors-JS
 
-Simple game dibangun menggunaka bahasa javascritpt native
+Simple game dibangun menggunakan bahasa javascritpt native
